@@ -1,13 +1,3 @@
-/*
- * Player.java
- * 
- * Computer Science 112, Boston University
- * 
- * serves as a blueprint for objects that
- * represent a single Buno player.
- */
-
-
 import java.util.*;
 
 class Player{

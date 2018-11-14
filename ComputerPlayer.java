@@ -1,13 +1,3 @@
-/*
- * ComputerPlayer.java
- * 
- * Computer Science 112, Boston University
- * 
- * serves as a blueprint for objects that
- * represent a single Buno computer player.
- */
-
-
 import java.util.*;
 
 class ComputerPlayer extends Player{

@@ -1,11 +1,3 @@
-/*
- * Buno.java
- * 
- * Computer Science 112, Boston University
- * 
- * 
- */
-
 import java.util.*;
 
 public class Buno {

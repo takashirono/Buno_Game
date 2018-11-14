@@ -1,10 +1,3 @@
-/*
- * Card.java
- * 
- * A blueprint class for objects that represent a single playing card 
- * for the game Buno.
- */
-
 public class Card {
     /* The smallest possible value that a Card can have. */
     public static final int MIN_VALUE = 0;
